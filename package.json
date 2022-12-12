@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TottoMoe/star-chart.git"
+    "url": "git+"
   },
   "author": "",
   "license": "ISC",
@@ -23,7 +23,7 @@
     "concurrently": "^5.1.0"
   },
   "bugs": {
-    "url": "https://github.com/TottoMoe/star-chart/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/TottoMoe/star-chart#readme"
+  "homepage": ""
 }
