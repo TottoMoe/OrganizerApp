@@ -1,0 +1,78 @@
+[
+  {
+    "name": "Brian Kernighan",
+    "email": "bkernighan@techfriends.dev",
+    "password": "password01",
+    "events": ["AWK", "AMPL", "Unix"]
+  },
+  {
+    "name": "Max Kanat-Alexander",
+    "email": "mkanatalexander@techfriends.dev",
+    "password": "password02",
+    "events": ["Java", "Perl", "Apache", "Python"]
+  },
+  {
+    "name": "Amiko",
+    "email": "amiko@techfriends.dev",
+    "password": "password03",
+    "events": ["NodeJS", "MySQL", "MongoDB", "React", "CSS-in-JS"]
+  },
+  {
+    "name": "Kent Beck",
+    "email": "kbeck@techfriends.dev",
+    "password": "password04",
+    "events": [
+      "Test-Driven Development",
+      "Extreme Programming",
+      "Software Design Patterns",
+      "JUnit"
+    ]
+  },
+  {
+    "name": "Edward V. Berard",
+    "email": "evberard@techfriends.dev",
+    "password": "password05",
+    "events": ["Object-Oriented Design"]
+  },
+  {
+    "name": "Alan Kay",
+    "email": "akay@techfriends.dev",
+    "password": "password06",
+    "events": [
+      "Graphical User Interface (GUI) Design",
+      "Jazz Guitar",
+      "Education"
+    ]
+  },
+  {
+    "name": "C.A.R. Hoare",
+    "email": "choare@techfriends.dev",
+    "password": "password07",
+    "events": ["Algorithms", "Quicksort", "Hoare Logic"]
+  },
+  {
+    "name": "David Thomas",
+    "email": "dthomas@techfriends.dev",
+    "password": "password08",
+    "events": ["Author", "Code Kata", "Ruby", "Pragmatic Programming"]
+  },
+  {
+    "name": "Donald Knuth",
+    "email": "dknuth@techfriends.dev",
+    "password": "password09",
+    "events": ["TeX Computer Typesetting", "Algorithms", "Author"]
+  },
+  {
+    "name": "Lernantino",
+    "email": "lernantino@techfriends.dev",
+    "password": "password10",
+    "events": [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Design Systems",
+      "Typescript",
+      "PWAs"
+    ]
+  }
+]

@@ -1,25 +1,25 @@
-const { Schema } = require("mongoose");
+// const { Schema } = require("mongoose");
 
-const eventSchema = new Schema({
-  title: {
-    type: String,
-    required: true,
-  },
-  description: {
-    type: String,
-    required: true,
-  },
+// const eventSchema = new Schema({
+//   title: {
+//     type: String,
+//     required: true,
+//   },
+//   description: {
+//     type: String,
+//     required: true,
+//   },
   
-  dates: {
-    type: Date,
-    required: true,
-  },
+//   dates: {
+//     type: Date,
+//     required: true,
+//   },
   
-  creator: {
-    type: Schema.Type.ObjectId,
-    ref: 'User'
-  }
+//   creator: {
+//     type: Schema.Type.ObjectId,
+//     ref: 'User'
+//   }
   
-});
+// });
 
-module.exports = eventSchema;
+// module.exports = eventSchema;

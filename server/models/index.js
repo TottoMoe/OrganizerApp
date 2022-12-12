@@ -1,5 +1,4 @@
-const User = require('./User');
-const Event = require('./Event')
-const Booking = require('./Booking')
+const User = require('./Profile');
+// const Event = require('./Event')
 
-module.exports = { User, Event, Booking };
+module.exports = { Profile };
